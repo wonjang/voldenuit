@@ -923,6 +923,7 @@ namespace OrderV
         public string 토픽 { get; set; }
         public string 시간 { get; set; }
         public string 가격 { get; set; }
+        public string 매수매도 { get; set; }
         public int 수량 { get; set; }
         public int 포지션 { get; set; }
         public double 순손익 { get; set; }
@@ -936,6 +937,7 @@ namespace OrderV
         public string 토픽 { get; set; }
         public string 시간 { get; set; }
         public string 가격 { get; set; }
+        public string 매수매도 { get; set; }
         public int 수량 { get; set; }
         public int 포지션 { get; set; }
         public double 순손익 { get; set; }

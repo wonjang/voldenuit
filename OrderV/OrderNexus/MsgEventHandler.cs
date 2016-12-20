@@ -309,6 +309,7 @@ namespace OrderV
             data.시퀀스 = message.seq;
             data.토픽 = message.topic;
             data.시간 = message.formatDateTime;
+            data.매수매도 = message.ASK_BID_TYPE_CODE;
             data.가격 = message.TRADING_PRICE;
             data.수량 = Int32.Parse(message.TRADING_VOLUMN);
             data.포지션 = Int32.Parse(message.POSITION);
@@ -322,10 +323,11 @@ namespace OrderV
         public void insert운용(STRUCT_0374_REPLY message)
         {
             운용 data = new 운용();
+            data.시퀀스1 = message.ticketSeq;
             data.시퀀스 = message.seq;
             data.토픽 = message.topic;
-            data.시퀀스1 = message.ticketSeq;
             data.시간 = message.formatDateTime;
+            data.매수매도 = message.ASK_BID_TYPE_CODE;
             data.가격 = message.TRADING_PRICE;
             data.수량 = Int32.Parse(message.TRADING_VOLUMN);
             data.포지션 = Int32.Parse(message.POSITION);

@@ -1,12 +1,6 @@
-2016-12-19 22:00:24,595 [10] INFO SocketMsg - Create SocketManager singleton instance...
-2016-12-19 22:00:24,605 [10] INFO SocketMsg - ip table loading
-2016-12-19 22:00:30,687 [6] INFO SocketMsg - socket id SOCKET1 listen... socket 127.0.0.1:11111
-2016-12-19 22:00:30,688 [12] INFO SocketMsg - socket id OMS listen... socket 127.0.0.1:11562
-2016-12-19 22:00:37,105 [6] INFO SocketMsg - socket id SOCKET1 accept socket 127.0.0.1:64060
-2016-12-19 22:00:43,889 [12] INFO SocketMsg - socket id OMS accept socket 127.0.0.1:64067
-2016-12-19 22:24:46,530 [9] INFO SocketMsg - Create SocketManager singleton instance...
-2016-12-19 22:24:46,542 [9] INFO SocketMsg - ip table loading
-2016-12-19 22:24:51,688 [11] INFO SocketMsg - socket id SOCKET1 listen... socket 127.0.0.1:11111
-2016-12-19 22:24:51,689 [12] INFO SocketMsg - socket id OMS listen... socket 127.0.0.1:11562
-2016-12-19 22:24:53,325 [11] INFO SocketMsg - socket id SOCKET1 accept socket 127.0.0.1:64697
-2016-12-19 22:25:00,656 [12] INFO SocketMsg - socket id OMS accept socket 127.0.0.1:64704
+2016-12-20 16:18:03,282 [10] INFO SocketMsg - Create SocketManager singleton instance...
+2016-12-20 16:18:03,291 [10] INFO SocketMsg - ip table loading
+2016-12-20 16:18:11,740 [11] INFO SocketMsg - socket id SOCKET1 listen... socket 127.0.0.1:11111
+2016-12-20 16:18:11,741 [12] INFO SocketMsg - socket id OMS listen... socket 127.0.0.1:11562
+2016-12-20 16:18:12,947 [11] INFO SocketMsg - socket id SOCKET1 accept socket 127.0.0.1:60889
+2016-12-20 16:18:17,126 [12] INFO SocketMsg - socket id OMS accept socket 127.0.0.1:60893
