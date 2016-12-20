@@ -1,0 +1,36 @@
+D:\users\Administrator\Documents\Visual Studio 2015\Projects\지민\MsgSend\MsgSend\bin\Debug\MsgSend.exe.config
+D:\users\Administrator\Documents\Visual Studio 2015\Projects\지민\MsgSend\MsgSend\bin\Debug\MsgSend.exe
+D:\users\Administrator\Documents\Visual Studio 2015\Projects\지민\MsgSend\MsgSend\bin\Debug\MsgSend.pdb
+D:\users\Administrator\Documents\Visual Studio 2015\Projects\지민\MsgSend\MsgSend\obj\Debug\MsgSend.csprojResolveAssemblyReference.cache
+D:\users\Administrator\Documents\Visual Studio 2015\Projects\지민\MsgSend\MsgSend\obj\Debug\MsgSend.MsgSender.resources
+D:\users\Administrator\Documents\Visual Studio 2015\Projects\지민\MsgSend\MsgSend\obj\Debug\MsgSend.Properties.Resources.resources
+D:\users\Administrator\Documents\Visual Studio 2015\Projects\지민\MsgSend\MsgSend\obj\Debug\MsgSend.csproj.GenerateResource.Cache
+D:\users\Administrator\Documents\Visual Studio 2015\Projects\지민\MsgSend\MsgSend\obj\Debug\MsgSend.exe
+D:\users\Administrator\Documents\Visual Studio 2015\Projects\지민\MsgSend\MsgSend\obj\Debug\MsgSend.pdb
+D:\users\Administrator\Documents\Visual Studio 2015\Projects\지민\MsgSend\MsgSend\bin\Debug\log4net.dll
+D:\users\Administrator\Documents\Visual Studio 2015\Projects\지민\MsgSend\MsgSend\bin\Debug\log4net.xml
+C:\Users\Administrator\Downloads\MsgSend\MsgSend\bin\Debug\MsgSend.exe.config
+C:\Users\Administrator\Downloads\MsgSend\MsgSend\obj\Debug\MsgSend.exe
+C:\Users\Administrator\Downloads\MsgSend\MsgSend\obj\Debug\MsgSend.pdb
+C:\Users\Administrator\Downloads\MsgSend\MsgSend\bin\Debug\MsgSend.exe
+C:\Users\Administrator\Downloads\MsgSend\MsgSend\bin\Debug\MsgSend.pdb
+C:\Users\Administrator\Downloads\MsgSend\MsgSend\bin\Debug\log4net.dll
+C:\Users\Administrator\Downloads\MsgSend\MsgSend\bin\Debug\log4net.xml
+C:\Users\Administrator\Downloads\MsgSend\MsgSend\obj\Debug\MsgSend.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\MsgSend\MsgSend\obj\Debug\MsgSend.MsgSender.resources
+C:\Users\Administrator\Downloads\MsgSend\MsgSend\obj\Debug\MsgSend.Properties.Resources.resources
+C:\Users\Administrator\Downloads\MsgSend\MsgSend\obj\Debug\MsgSend.csproj.GenerateResource.Cache
+C:\Users\jangwon\Desktop\voldenuit\MsgSend\MsgSend\bin\Debug\MsgSend.exe.config
+C:\Users\jangwon\Desktop\voldenuit\MsgSend\MsgSend\obj\Debug\MsgSend.exe
+C:\Users\jangwon\Desktop\voldenuit\MsgSend\MsgSend\obj\Debug\MsgSend.pdb
+D:\voldenuit\MsgSend\MsgSend\bin\Debug\MsgSend.exe.config
+D:\voldenuit\MsgSend\MsgSend\obj\Debug\MsgSend.exe
+D:\voldenuit\MsgSend\MsgSend\obj\Debug\MsgSend.pdb
+D:\voldenuit\MsgSend\MsgSend\bin\Debug\MsgSend.exe
+D:\voldenuit\MsgSend\MsgSend\bin\Debug\MsgSend.pdb
+D:\voldenuit\MsgSend\MsgSend\bin\Debug\log4net.dll
+D:\voldenuit\MsgSend\MsgSend\bin\Debug\log4net.xml
+D:\voldenuit\MsgSend\MsgSend\obj\Debug\MsgSend.csprojResolveAssemblyReference.cache
+D:\voldenuit\MsgSend\MsgSend\obj\Debug\MsgSend.MsgSender.resources
+D:\voldenuit\MsgSend\MsgSend\obj\Debug\MsgSend.Properties.Resources.resources
+D:\voldenuit\MsgSend\MsgSend\obj\Debug\MsgSend.csproj.GenerateResource.Cache

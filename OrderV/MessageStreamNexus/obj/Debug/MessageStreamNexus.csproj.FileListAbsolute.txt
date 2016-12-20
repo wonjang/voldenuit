@@ -1,0 +1,43 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamNexux\bin\Debug\MessageStreamNexux.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamNexux\bin\Debug\MessageStreamNexux.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamNexux\bin\Debug\MessageStreamNexux.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamNexux\obj\Debug\MessageStreamNexus.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamNexux\obj\Debug\MessageStreamNexux.Mainform.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamNexux\obj\Debug\MessageStreamNexux.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamNexux\obj\Debug\MessageStreamNexus.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamNexux\obj\Debug\MessageStreamNexux.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamNexux\obj\Debug\MessageStreamNexux.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamNexux\bin\Debug\log4net.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamNexux\bin\Debug\log4net.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\bin\Debug\MessageStreamNexux.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\bin\Debug\MessageStreamNexux.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\bin\Debug\MessageStreamNexux.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\bin\Debug\log4net.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.Mainform.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexus.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.View1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexus.csprojResolveAssemblyReference.cache
+D:\voldenuit\OrderV\MessageStreamNexus\bin\Debug\MessageStreamNexux.exe.config
+D:\voldenuit\OrderV\MessageStreamNexus\bin\Debug\MessageStreamNexux.exe
+D:\voldenuit\OrderV\MessageStreamNexus\bin\Debug\MessageStreamNexux.pdb
+D:\voldenuit\OrderV\MessageStreamNexus\bin\Debug\log4net.dll
+D:\voldenuit\OrderV\MessageStreamNexus\bin\Debug\log4net.xml
+D:\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexus.csprojResolveAssemblyReference.cache
+D:\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.Mainform.resources
+D:\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.Properties.Resources.resources
+D:\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.View1.resources
+D:\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexus.csproj.GenerateResource.Cache
+D:\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.exe
+D:\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.pdb
+D:\voldenuit\OrderV\MessageStreamNexus\bin\Debug\QLNet.dll
+D:\voldenuit\OrderV\MessageStreamNexus\bin\Debug\Newtonsoft.Json.dll
+D:\voldenuit\OrderV\MessageStreamNexus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\bin\Debug\QLNet.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.View2.resources
+D:\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.View2.resources

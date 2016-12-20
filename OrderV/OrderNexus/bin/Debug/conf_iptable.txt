@@ -1,0 +1,3 @@
+﻿SOCKET1|localhost:11111
+SOCKET2|localhost:11112
+SOCKET3|localhost:11113

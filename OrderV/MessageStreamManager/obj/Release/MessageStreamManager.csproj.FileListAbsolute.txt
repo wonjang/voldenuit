@@ -1,0 +1,27 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\bin\Release\MessageStreamManager.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\bin\Release\MessageStreamManager.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\bin\Release\MessageStreamManager.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\bin\Release\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\bin\Release\QLNet.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\bin\Release\log4net.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\obj\Release\MessageStreamManager.Mainform.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\obj\Release\MessageStreamManager.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\obj\Release\MessageStreamManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\obj\Release\MessageStreamManager.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\obj\Release\MessageStreamManager.pdb
+D:\voldenuit\OrderV\MessageStreamManager\bin\Release\MessageStreamManager.exe.config
+D:\voldenuit\OrderV\MessageStreamManager\bin\Release\MessageStreamManager.exe
+D:\voldenuit\OrderV\MessageStreamManager\bin\Release\MessageStreamManager.pdb
+D:\voldenuit\OrderV\MessageStreamManager\bin\Release\log4net.dll
+D:\voldenuit\OrderV\MessageStreamManager\bin\Release\Newtonsoft.Json.dll
+D:\voldenuit\OrderV\MessageStreamManager\bin\Release\QLNet.dll
+D:\voldenuit\OrderV\MessageStreamManager\bin\Release\log4net.xml
+D:\voldenuit\OrderV\MessageStreamManager\bin\Release\Newtonsoft.Json.xml
+D:\voldenuit\OrderV\MessageStreamManager\obj\Release\MessageStreamManager.csprojResolveAssemblyReference.cache
+D:\voldenuit\OrderV\MessageStreamManager\obj\Release\MessageStreamManager.Mainform.resources
+D:\voldenuit\OrderV\MessageStreamManager\obj\Release\MessageStreamManager.Properties.Resources.resources
+D:\voldenuit\OrderV\MessageStreamManager\obj\Release\MessageStreamManager.csproj.GenerateResource.Cache
+D:\voldenuit\OrderV\MessageStreamManager\obj\Release\MessageStreamManager.exe
+D:\voldenuit\OrderV\MessageStreamManager\obj\Release\MessageStreamManager.pdb

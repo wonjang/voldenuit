@@ -1,0 +1,41 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\bin\Debug\OrderNexus.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\bin\Debug\OrderNexus.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\bin\Debug\OrderNexus.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\bin\Debug\log4net.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\bin\Debug\log4net.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\obj\Debug\OrderNexus.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\obj\Debug\OrderNexus.MainForm.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\obj\Debug\OrderNexus.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\obj\Debug\OrderNexus.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\obj\Debug\OrderNexus.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\OrderNexus\obj\Debug\OrderNexus.pdb
+D:\voldenuit\OrderV\OrderNexus\bin\Debug\OrderNexus.exe.config
+D:\voldenuit\OrderV\OrderNexus\obj\Debug\OrderNexus.exe
+D:\voldenuit\OrderV\OrderNexus\obj\Debug\OrderNexus.pdb
+D:\voldenuit\OrderV\OrderNexus\bin\Debug\OrderNexus.exe
+D:\voldenuit\OrderV\OrderNexus\bin\Debug\OrderNexus.pdb
+D:\voldenuit\OrderV\OrderNexus\bin\Debug\log4net.dll
+D:\voldenuit\OrderV\OrderNexus\bin\Debug\Newtonsoft.Json.dll
+D:\voldenuit\OrderV\OrderNexus\bin\Debug\log4net.xml
+D:\voldenuit\OrderV\OrderNexus\bin\Debug\Newtonsoft.Json.xml
+D:\voldenuit\OrderV\OrderNexus\obj\Debug\OrderNexus.Properties.Resources.resources
+D:\voldenuit\OrderV\OrderNexus\obj\Debug\OrderNexus.csproj.GenerateResource.Cache
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\bin\Debug\OrderNexus.exe.config
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\obj\Debug\OrderNexus.exe
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\obj\Debug\OrderNexus.pdb
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\bin\Debug\OrderNexus.exe
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\bin\Debug\OrderNexus.pdb
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\bin\Debug\log4net.dll
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\bin\Debug\log4net.xml
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\obj\Debug\OrderNexus.csprojResolveAssemblyReference.cache
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\obj\Debug\OrderNexus.MainForm.resources
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\obj\Debug\OrderNexus.Properties.Resources.resources
+C:\Users\jangwon\Desktop\voldenuit\OrderV\OrderNexus\obj\Debug\OrderNexus.csproj.GenerateResource.Cache
+D:\voldenuit\OrderV\OrderNexus\obj\Debug\OrderV.MainForm.resources
+D:\voldenuit\OrderV\OrderNexus\obj\Debug\OrderV.View1.resources
+D:\voldenuit\OrderV\OrderNexus\obj\Debug\OrderV.View2.resources
+D:\voldenuit\OrderV\OrderNexus\obj\Debug\OrderNexus.csprojResolveAssemblyReference.cache

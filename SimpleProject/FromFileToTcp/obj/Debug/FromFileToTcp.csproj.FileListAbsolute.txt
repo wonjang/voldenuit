@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\FromFileToTcp\bin\Debug\FromFileToTcp.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\FromFileToTcp\bin\Debug\FromFileToTcp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\FromFileToTcp\bin\Debug\FromFileToTcp.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\FromFileToTcp\obj\Debug\FromFileToTcp.Sender.resources
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\FromFileToTcp\obj\Debug\FromFileToTcp.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\FromFileToTcp\obj\Debug\FromFileToTcp.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\FromFileToTcp\obj\Debug\FromFileToTcp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\FromFileToTcp\obj\Debug\FromFileToTcp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SimpleProject\FromFileToTcp\obj\Debug\FromFileToTcp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\체결_취소_시뮬레이터\SocketServer\SocketServer\bin\Release\SocketServer.exe.config
+D:\체결_취소_시뮬레이터\SocketServer\SocketServer\bin\Release\SocketServer.exe
+D:\체결_취소_시뮬레이터\SocketServer\SocketServer\bin\Release\SocketServer.pdb
+D:\체결_취소_시뮬레이터\SocketServer\SocketServer\obj\Release\SocketServer.Form1.resources
+D:\체결_취소_시뮬레이터\SocketServer\SocketServer\obj\Release\SocketServer.Form2.resources
+D:\체결_취소_시뮬레이터\SocketServer\SocketServer\obj\Release\SocketServer.Properties.Resources.resources
+D:\체결_취소_시뮬레이터\SocketServer\SocketServer\obj\Release\SocketServer.csproj.GenerateResource.Cache
+D:\체결_취소_시뮬레이터\SocketServer\SocketServer\obj\Release\SocketServer.exe
+D:\체결_취소_시뮬레이터\SocketServer\SocketServer\obj\Release\SocketServer.pdb

@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\TcpListener\bin\Debug\TcpListener.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\TcpListener\bin\Debug\TcpListener.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\TcpListener\bin\Debug\TcpListener.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\TcpListener\obj\Debug\TcpListener.TCPListener.resources
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\TcpListener\obj\Debug\TcpListener.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\TcpListener\obj\Debug\TcpListener.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\TcpListener\obj\Debug\TcpListener.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SimpleProject\TcpListener\obj\Debug\TcpListener.pdb
+D:\voldenuit\SimpleProject\TcpListener\bin\Debug\TcpListener.exe.config
+D:\voldenuit\SimpleProject\TcpListener\obj\Debug\TcpListener.exe
+D:\voldenuit\SimpleProject\TcpListener\obj\Debug\TcpListener.pdb

@@ -1,0 +1,27 @@
+c:\users\administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamManager\obj\Debug\MessageStreamManager.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamManager\obj\Debug\MessageStreamManager.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamManager\bin\Debug\MessageStreamManager.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamManager\bin\Debug\MessageStreamManager.exe
+c:\users\administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamManager\bin\Debug\MessageStreamManager.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamManager\bin\Debug\log4net.dll
+c:\users\administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamManager\bin\Debug\log4net.xml
+c:\users\administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamManager\obj\Debug\MessageStreamManager.exe
+c:\users\administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamManager\obj\Debug\MessageStreamManager.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\OrderV\MessageStreamManager\obj\Debug\MessageStreamManager.Mainform.resources
+D:\voldenuit\OrderV\MessageStreamManager\bin\Debug\MessageStreamManager.exe.config
+D:\voldenuit\OrderV\MessageStreamManager\obj\Debug\MessageStreamManager.exe
+D:\voldenuit\OrderV\MessageStreamManager\obj\Debug\MessageStreamManager.pdb
+D:\voldenuit\OrderV\MessageStreamManager\bin\Debug\MessageStreamManager.exe
+D:\voldenuit\OrderV\MessageStreamManager\bin\Debug\MessageStreamManager.pdb
+D:\voldenuit\OrderV\MessageStreamManager\bin\Debug\log4net.dll
+D:\voldenuit\OrderV\MessageStreamManager\bin\Debug\log4net.xml
+D:\voldenuit\OrderV\MessageStreamManager\obj\Debug\MessageStreamManager.csprojResolveAssemblyReference.cache
+D:\voldenuit\OrderV\MessageStreamManager\obj\Debug\MessageStreamManager.Mainform.resources
+D:\voldenuit\OrderV\MessageStreamManager\obj\Debug\MessageStreamManager.Properties.Resources.resources
+D:\voldenuit\OrderV\MessageStreamManager\obj\Debug\MessageStreamManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\bin\Debug\QLNet.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamManager\bin\Debug\Newtonsoft.Json.xml
+D:\voldenuit\OrderV\MessageStreamManager\bin\Debug\Newtonsoft.Json.dll
+D:\voldenuit\OrderV\MessageStreamManager\bin\Debug\QLNet.dll
+D:\voldenuit\OrderV\MessageStreamManager\bin\Debug\Newtonsoft.Json.xml
