@@ -41,3 +41,19 @@ C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStrea
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.View2.resources
 D:\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.View2.resources
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\bin\Debug\MessageStreamNexux.exe.config
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\bin\Debug\MessageStreamNexux.exe
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\bin\Debug\MessageStreamNexux.pdb
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\bin\Debug\log4net.dll
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\bin\Debug\QLNet.dll
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\bin\Debug\log4net.xml
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexus.csprojResolveAssemblyReference.cache
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.Mainform.resources
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.Properties.Resources.resources
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.View1.resources
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.View2.resources
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexus.csproj.GenerateResource.Cache
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.exe
+D:\workspace\voldenuit\OrderV\MessageStreamNexus\obj\Debug\MessageStreamNexux.pdb

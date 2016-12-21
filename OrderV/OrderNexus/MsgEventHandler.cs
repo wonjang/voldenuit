@@ -451,14 +451,14 @@ namespace OrderV
                             //매수 주문하기
                             order = new STRUCT_0393(find.토픽, ticketSeq, find.종목,
                                             MainForm.orderNumber.ToString("0000000000"), "0000000000", "2", OrderParam.NewOrder,
-                                            orderQty.ToString("0000000000"), find.가격);
+                                            rejectQty.ToString("0000000000"), find.가격);
                         }
                         else
                         {
                             //매도 주문하기 
                             order = new STRUCT_0393(find.토픽, ticketSeq, find.종목,
                                             MainForm.orderNumber.ToString("0000000000"), "0000000000", "1", OrderParam.NewOrder,
-                                            orderQty.ToString("0000000000"), find.가격);
+                                            rejectQty.ToString("0000000000"), find.가격);
                         }
                     }
 
@@ -485,14 +485,14 @@ namespace OrderV
                                 //매수 주문하기
                                 order = new STRUCT_0393(find.토픽, find.시퀀스1, find.종목,
                                                MainForm.orderNumber.ToString("0000000000"), "0000000000", "2", OrderParam.NewOrder,
-                                               cancelQty.ToString("0000000000"), find.가격);
+                                               rejectQty.ToString("0000000000"), find.가격);
                             }
                             else
                             {
                                 //매도 주문하기 
                                 order = new STRUCT_0393(find.토픽, find.시퀀스1, find.종목,
                                                MainForm.orderNumber.ToString("0000000000"), "0000000000", "1", OrderParam.NewOrder,
-                                               cancelQty.ToString("0000000000"), find.가격);
+                                               rejectQty.ToString("0000000000"), find.가격);
                             }
                         }
                         else
@@ -516,18 +516,18 @@ namespace OrderV
             List<신규주문> query = null;
             if (message.ASK_BID_TYPE_CODE.Equals("1"))
             {
-                query = 신규주문테이블.Where(n => n.수량 > n.체결 + n.취소확인 && n.매매구분 == "2" && n.취소요청 == 0).ToList<신규주문>();
+                query = 신규주문테이블.Where(n => n.수량 > n.체결 + n.취소요청 && n.매매구분 == "2" /*&& n.취소요청 == 0*/).ToList<신규주문>();
             }
             else
             {
-                query = 신규주문테이블.Where(n => n.수량 > n.체결 + n.취소확인 && n.매매구분 == "1" && n.취소요청 == 0).ToList<신규주문>();
+                query = 신규주문테이블.Where(n => n.수량 > n.체결 + n.취소요청 && n.매매구분 == "1"/* && n.취소요청 == 0*/).ToList<신규주문>();
             }
 
             if (query.Any<신규주문>())
             {
                 foreach (신규주문 find in query)
                 {
-                    int remainQty = find.수량 - find.체결 - find.취소확인;
+                    int remainQty = find.수량 - find.체결 - find.취소요청;
                     if (remainQty > 0)
                     {
                         if (ticketOrderQty >= remainQty)
@@ -538,7 +538,7 @@ namespace OrderV
                                                                               remainQty.ToString("0000000000"), find.가격);
                             lock (MainForm.lockObj)
                             {
-                                find.취소요청 = remainQty;
+                                find.취소요청 += remainQty;
                             }
                             Task CancelOrderThread = new Task(() => this.CancelOrder(order));
                             CancelOrderThread.Start();
@@ -554,10 +554,11 @@ namespace OrderV
                                                                                   ticketOrderQty.ToString("0000000000"), find.가격);
                                 lock (MainForm.lockObj)
                                 {
-                                    find.취소요청 = ticketOrderQty;
+                                    find.취소요청 += ticketOrderQty;
                                 }
                                 Task CancelOrderThread = new Task(() => this.CancelOrder(order));
-                                CancelOrderThread.Start(); ticketOrderQty = 0;
+                                CancelOrderThread.Start();
+                                ticketOrderQty = 0;
                             }
                             break;
                         }
