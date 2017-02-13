@@ -1,0 +1,14 @@
+C:\Users\wonja\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\wonja\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\wonja\Desktop\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\wonja\Desktop\TaskManager\TaskManager\bin\Debug\log4net.dll
+C:\Users\wonja\Desktop\TaskManager\TaskManager\bin\Debug\log4net.xml
+C:\Users\wonja\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\wonja\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\wonja\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\wonja\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\wonja\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\wonja\Desktop\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+D:\voldenuit\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+D:\voldenuit\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+D:\voldenuit\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
